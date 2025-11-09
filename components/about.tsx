@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif"
                 alt="Sapphire Madani Tegal"
                 width={600}
                 height={450}
@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Sapphire Madani Tegal</h2>
               <p className="about-description">
-                Berada di Jl. Pendidikan, Pesurungan Lor, Sapphire Madani Tegal menawarkan perumahan Tegal yang memadukan kenyamanan tinggal dan kemudahan beraktivitas. Kawasan ini dekat pusat kota dan berbagai fasilitas penting, sehingga Anda bisa menjalani rutinitas tanpa harus menempuh perjalanan jauh. 
+                Berada di Jl. Pendidikan, Pesurungan Lor, Sapphire Madani Tegal menawarkan perumahan Tegal yang memadukan kenyamanan tinggal dan kemudahan beraktivitas. Kawasan ini dekat pusat kota dan berbagai fasilitas penting, sehingga Anda bisa menjalani rutinitas tanpa harus menempuh perjalanan jauh.
               </p>
               <div>
                 {/* Ubah Link menjadi button untuk membuka modal */}
@@ -59,22 +59,22 @@ export default function About() {
 
           {/* Container statistik */}
           <div className="about-stats-grid">
-            {/* Statistik - Projects Completed */}
+            {/* Statistik - Lokasi Terbaik */}
             <div className="about-stat-card">
-              <div className="about-stat-value">2</div>
-              <div className="about-stat-label">Cluster Eksklusif</div>
+              <div className="about-stat-value">5</div>
+              <div className="about-stat-label">Lokasi Terbaik di Jawa Bagian Utara</div>
             </div>
 
-            {/* Statistik - Awards */}
+            {/* Statistik - Keluarga Sapphire */}
             <div className="about-stat-card">
-              <div className="about-stat-value">100+</div>
-              <div className="about-stat-label">Keluarga Sapphire Madani</div>
+              <div className="about-stat-value">10.000+</div>
+              <div className="about-stat-label">Keluarga Sapphire</div>
             </div>
 
-            {/* Statistik - Satisfied Clients */}
+            {/* Statistik - Proyek Unggulan */}
             <div className="about-stat-card">
-              <div className="about-stat-value">24</div>
-              <div className="about-stat-label">Jam Keamanan Sistem Terpadu</div>
+              <div className="about-stat-value">8</div>
+              <div className="about-stat-label">Proyek Unggulan</div>
             </div>
 
             {/* Statistik - Years of Experience */}
@@ -97,7 +97,7 @@ export default function About() {
               <h2 className="modal-title">Sapphire Madani Tegal</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif"
+                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif"
                   alt="Sapphire Madani Tegal"
                   width={700}
                   height={400}

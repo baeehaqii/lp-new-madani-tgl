@@ -208,7 +208,7 @@ export default function Concepts() {
       ref={sectionRef}
     >
       <div className="container">
-        <h2 className="section-title">Konsep Desain Sapphire Madani Tegal</h2>
+        <h2 className="section-title">Skema Pembelian & Dokumen Sapphire Madani Tegal</h2>
 
         {/* Tab Navigation */}
         <div className="concepts-tabs">

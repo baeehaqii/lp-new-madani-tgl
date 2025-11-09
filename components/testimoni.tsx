@@ -17,19 +17,19 @@ export default function Testimonials() {
     const testimonials: Testimonial[] = [
         {
             id: 1,
-            name: "Ibu Rossie",
+            name: "Prama G.",
             location: "Tegal, Indonesia",
-            image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1755435664/Screenshot_2025-08-17_at_19-59-13_Sapphire_Griya_Modern_Official_Perumahan_Tegal_Slawi_Brebes_sapphiregriyamodern_Instagram_photos_and_videos_t4hycn.png",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762656135/download_cszbzm.png",
             rating: 5,
-            text: "Saya sangat senang dengan pengalaman membeli rumah di Sapphire Madani Tegal. Tim marketing sangat membantu dan ramah. Prosesnya cepat dan mudah. Saya merasa sangat puas dengan rumah yang saya beli. Terima kasih Sapphire Grup!",
+            text: "Satu lokasi punya lebih dari 1 konsep. Wuiihh, dah kaya di Jabodetabek saja Semoga jodoh bisa punya rumah di sini.",
         },
         {
             id: 2,
-            name: "Bapak Handy",
+            name: "Zada D.",
             location: "Tegal, Indonesia",
-            image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1755435663/Screenshot_2025-08-17_at_20-00-42_Sapphire_Griya_Modern_Official_Perumahan_Tegal_Slawi_Brebes_sapphiregriyamodern_Instagram_photos_and_videos_ybu2pd.png",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762656135/download_cszbzm.png",
             rating: 5,
-            text: "Saya sangat puas dengan pelayanan Sapphire di Tegal. Tim marketing sangat profesional dan membantu saya menemukan rumah yang sesuai dengan kebutuhan keluarga. Lokasi perumahan juga strategis banget. Terima kasih Sapphire Madani!",
+            text: "Pengen banget punya rumah di sini, akses jalan luas, fasilitas lengkap, lokasinya strategis banget mau kemana mana deket. Bismillah.",
         },
 
     ]

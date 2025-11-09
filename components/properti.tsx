@@ -326,7 +326,7 @@ export default function Properties() {
   const [touchStart, setTouchStart] = useState<{ [key: number]: number }>({})
   const [isDragging, setIsDragging] = useState<{ [key: number]: boolean }>({})
   const [dragStart, setDragStart] = useState<{ [key: number]: number }>({})
-  const [modalTab, setModalTab] = useState<'detail' | 'simulasi' | 'progres' | 'lokasi'>('detail')
+  const [modalTab, setModalTab] = useState<'detail' | 'simulasi'>('detail')
   const [kprHarga, setKprHarga] = useState<string>('')
   const [kprDp, setKprDp] = useState<string>('')
   const [kprTahun, setKprTahun] = useState<string>('')
@@ -346,8 +346,8 @@ export default function Properties() {
       id: 1,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-2_gythie.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016364/Screenshot_2025-11-01_at_23.44.49_kmhgyk.avif",
       name: "Tipe 42/78",
@@ -363,8 +363,8 @@ export default function Properties() {
       id: 2,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710030/Saba47-2_oavwha.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710030/Saba47-1_gla5zb.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016364/Screenshot_2025-11-01_at_23.44.59_nuy3zc.avif",
       name: "Tipe 47/84",
@@ -380,8 +380,8 @@ export default function Properties() {
       id: 3,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710259/Saba52-1_wyru9f.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710259/Saba52-2_aichup.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016365/Screenshot_2025-11-01_at_23.45.09_gd1qt6.avif",
       name: "Tipe 52/84",
@@ -397,8 +397,8 @@ export default function Properties() {
       id: 4,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710429/Saba53-1_ph4ry5.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710429/Saba53-2_napyeb.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016365/Screenshot_2025-11-01_at_23.45.18_ja7a38.avif",
       name: "Tipe 53/84",
@@ -414,8 +414,8 @@ export default function Properties() {
       id: 5,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710596/studio-saba2_gatnif.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710595/studio-saba1_amm4ya.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016365/Screenshot_2025-11-01_at_23.45.32_dzxfve.avif",
       name: "Tipe Studio",
@@ -1266,42 +1266,6 @@ export default function Properties() {
               >
                 Simulasi KPR
               </button>
-              <button
-                onClick={() => setModalTab('progres')}
-                style={{
-                  padding: '12px 0',
-                  border: 'none',
-                  backgroundColor: 'transparent',
-                  fontSize: '14px',
-                  fontWeight: modalTab === 'progres' ? '700' : '500',
-                  color: modalTab === 'progres' ? '#831016' : '#94a3b8',
-                  cursor: 'pointer',
-                  borderBottom: modalTab === 'progres' ? '2px solid #831016' : 'none',
-                  transition: 'all 0.2s',
-                  fontFamily: 'inherit',
-                  marginBottom: '-1px'
-                }}
-              >
-                Progres Pembangunan
-              </button>
-              <button
-                onClick={() => setModalTab('lokasi')}
-                style={{
-                  padding: '12px 0',
-                  border: 'none',
-                  backgroundColor: 'transparent',
-                  fontSize: '14px',
-                  fontWeight: modalTab === 'lokasi' ? '700' : '500',
-                  color: modalTab === 'lokasi' ? '#831016' : '#94a3b8',
-                  cursor: 'pointer',
-                  borderBottom: modalTab === 'lokasi' ? '2px solid #831016' : 'none',
-                  transition: 'all 0.2s',
-                  fontFamily: 'inherit',
-                  marginBottom: '-1px'
-                }}
-              >
-                Lokasi
-              </button>
             </div>
 
             <div className="modal-content">
@@ -1376,59 +1340,7 @@ export default function Properties() {
                   onTahunChange={setKprTahun}
                   onBungaChange={setKprBunga}
                 />
-              ) : modalTab === 'progres' ? (
-                <ConstructionProgress />
-              ) : (
-                <div style={{ padding: '24px' }}>
-                  <h3 className="modal-subtitle" style={{ marginTop: 0 }}>Lokasi Sapphire Madani Tegal</h3>
-                  <div style={{
-                    width: '100%',
-                    height: '450px',
-                    borderRadius: '8px',
-                    overflow: 'hidden',
-                    marginBottom: '20px'
-                  }}>
-                    <div
-                      dangerouslySetInnerHTML={{ __html: location.embed }}
-                      style={{
-                        width: '100%',
-                        height: '100%'
-                      }}
-                    />
-                  </div>
-                  <p style={{ color: '#64748b', lineHeight: '1.6' }}>{location.description}</p>
-                  <div style={{ marginTop: '20px' }}>
-                    <Link
-                      href="https://maps.app.goo.gl/6T1w27ct5YuRFnof7"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{
-                        display: 'inline-flex',
-                        alignItems: 'center',
-                        gap: '8px',
-                        padding: '12px 24px',
-                        backgroundColor: '#831016',
-                        color: '#ffffff',
-                        borderRadius: '6px',
-                        textDecoration: 'none',
-                        fontWeight: '600',
-                        transition: 'all 0.2s ease'
-                      }}
-                      onMouseEnter={(e) => {
-                        (e.target as HTMLAnchorElement).style.backgroundColor = '#a31c1e'
-                      }}
-                      onMouseLeave={(e) => {
-                        (e.target as HTMLAnchorElement).style.backgroundColor = '#831016'
-                      }}
-                    >
-                      <svg viewBox="0 0 24 24" fill="currentColor" style={{ width: '18px', height: '18px' }} aria-hidden="true">
-                        <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 110-5 2.5 2.5 0 010 5z" />
-                      </svg>
-                      Lihat Lokasi di Google Maps
-                    </Link>
-                  </div>
-                </div>
-              )}
+              ) : null}
             </div>
           </div>
         </div>

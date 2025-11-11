@@ -42,13 +42,12 @@ export default function RootLayout({
         {/* Inline Critical CSS for Above-the-Fold Content */}
         <style dangerouslySetInnerHTML={{
           __html: `
-          .header{position:fixed;top:0;left:0;right:0;z-index:50;background-color:#fff;box-shadow:0 1px 3px rgba(0,0,0,0.1)}
           .header-container{display:flex;align-items:center;justify-content:space-between;height:5rem;gap:2rem;max-width:1280px;margin:0 auto;padding:0 1.5rem}
           .header-logo{display:flex;align-items:center;gap:0.5rem;flex-shrink:0}
           .header-nav{display:none;gap:2.5rem;flex:1;justify-content:center}
           .header-nav-link{color:#333;font-weight:500;font-size:0.95rem;transition:color 0.2s}
           .header-mobile-button{display:block;color:#333;background:none;border:none;cursor:pointer}
-          .hero-section{padding-top:5rem;min-height:100vh;position:relative;overflow:hidden}
+          .hero-section{padding-top:5rem;position:relative;overflow:hidden}
           @media(min-width:1024px){.header-nav{display:flex}.header-mobile-button{display:none}}
         `}} />
 

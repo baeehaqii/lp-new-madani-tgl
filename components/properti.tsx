@@ -432,8 +432,8 @@ export default function Properties() {
       id: 6,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762841727/palmyra48-1_lv388g.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762841728/palmyra48-2_oqersg.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016393/Screenshot_2025-11-01_at_23.45.45_v28ss1.avif",
       name: "Tipe 48/90",
@@ -449,8 +449,8 @@ export default function Properties() {
       id: 7,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016393/Screenshot_2025-11-01_at_23.45.54_x6mfto.avif",
       name: "Tipe 55/108",
@@ -466,8 +466,8 @@ export default function Properties() {
       id: 8,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016394/Screenshot_2025-11-01_at_23.46.04_uiee21.avif",
       name: "Tipe 69/108",
@@ -483,8 +483,8 @@ export default function Properties() {
       id: 9,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016394/Screenshot_2025-11-01_at_23.46.11_vjksbm.avif",
       name: "Tipe 69/135 Hook",
@@ -500,8 +500,8 @@ export default function Properties() {
       id: 10,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_1_-_Photo.jpeg_sitx25.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016394/Screenshot_2025-11-01_at_23.46.18_cdv5rx.avif",
       name: "Tipe 90/108",
@@ -517,7 +517,7 @@ export default function Properties() {
 
   const siteplan = {
     id: "siteplan-1",
-    image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762013556/Screenshot_2025-11-01_at_23.07.51_an0uvv.avif",
+    image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762842939/siteplan-madani-tgl_uutuyn.png",
     name: "Siteplan Sapphire Madani Tegal",
     description:
       "Masterplan perumahan Sapphire Madani Tegal dengan dua cluster eksklusif menampilkan layout, jalan, ruang terbuka hijau, tempat ibadah terintegrasi, taman dan fasilitas dengan sistem keamanan terpadu untuk kenyamanan optimal.",
@@ -1196,7 +1196,7 @@ export default function Properties() {
               <p>{location.description}</p>
               <div className="location-button-container">
                 <Link
-                  href="https://maps.app.goo.gl/6T1w27ct5YuRFnof7"
+                  href="https://maps.app.goo.gl/MPNyhaaURWjhHtnb6"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="location-gmaps-button"
@@ -1321,7 +1321,7 @@ export default function Properties() {
 
                     <div className="modal-cta">
                       <Link
-                        href="https://wa.me/628170031130?text=Halo,%20saya%20tertarik%20dengan%20properti%20Samara%20Asri%20Wiradadi"
+                        href="https://wa.me/628170031130?text=Halo,%20saya%20tertarik%20dengan%20properti%20Sapphire%20Madani%20Tegal"
                         className="modal-cta-button"
                       >
                         Hubungi Kami

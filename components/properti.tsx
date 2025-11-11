@@ -940,7 +940,7 @@ export default function Properties() {
           <div className="specifications-container">
             <div className="specifications-image">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761825386/2_4_-_Photo.jpeg_sjzwqy.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762709341/saba42-1_cnnxys.avif"
                 alt="Spesifikasi Rumah"
                 width={600}
                 height={800}
@@ -1172,7 +1172,7 @@ export default function Properties() {
                     (e.target as HTMLButtonElement).style.backgroundColor = '#831016'
                   }}
                 >
-                  Load More
+                  Lihat Semua Spesifikasi
                 </button>
               )}
             </div>

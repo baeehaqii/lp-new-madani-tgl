@@ -12,7 +12,7 @@ export default function YouTube() {
                         <h2 className="youtube-title">Subscribe Channel Sapphire Grup</h2>
                         <p className="youtube-description">
                             Ikuti channel YouTube kami untuk mendapatkan update terbaru tentang Sapphire Madani Tegal,
-                            tour virtual, tips properti, dan konten menarik lainnya.
+                            tour virtual, tips properti, dan konten menarik lainnyaa.
                         </p>
                         <Link
                             href="https://www.youtube.com/@sapphiregrup"

@@ -27,7 +27,8 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif"
+                //src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif"
+                src="https://res.cloudinary.com/dqobwse9q/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764453271/Enscape_2025-09-19-15-50-56_VIEW_1_irf1br.avif"
                 alt="Sapphire Madani Tegal"
                 width={600}
                 height={450}
@@ -97,7 +98,8 @@ export default function About() {
               <h2 className="modal-title">Sapphire Madani Tegal</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif"
+                  //src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif"
+                  src="https://res.cloudinary.com/dqobwse9q/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764453271/Enscape_2025-09-19-15-50-56_VIEW_1_irf1br.avif"
                   alt="Sapphire Madani Tegal"
                   width={700}
                   height={400}

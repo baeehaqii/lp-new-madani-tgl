@@ -19,7 +19,7 @@ export default function Testimonials() {
             id: 1,
             name: "Prama G.",
             location: "Tegal, Indonesia",
-            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764488271/gambar-1_eqx4w1.avif",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1764488271/gambar-3_imbunn.avif",
             rating: 5,
             text: "Satu lokasi punya lebih dari 1 konsep. Wuiihh, dah kaya di Jabodetabek saja Semoga jodoh bisa punya rumah di sini.",
         },

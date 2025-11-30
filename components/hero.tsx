@@ -17,10 +17,6 @@ export default function Hero() {
 
   const heroSlides = [
     {
-<<<<<<< HEAD
-=======
-      //image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif",
->>>>>>> 53958f1fb21d5dadf173249ecd6c5c3433c49407
       image:"https://res.cloudinary.com/dqobwse9q/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764453271/Enscape_2025-09-19-15-50-56_VIEW_1_irf1br.avif",
       title: "Hidup Praktis di Tengah Kota Tegal",
       description:

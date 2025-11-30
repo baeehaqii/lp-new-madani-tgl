@@ -31,9 +31,9 @@ export default function Features() {
   return (
     <section id="fasilitas" className="features-section">
       <div className="container">
-        <h2 className="section-title">Bukan Sekadar Rumah, Tapi Ruang Hidup yang Dirancang untuk Anda</h2>
+        <h2 className="section-title">Hidup Praktis di Tengah Kota Tegal</h2>
         <p className="section-subtitle">
-          Paduan Hunian Modern dan Kenyamanan Alami di Pusat Kota Tegal yang Strategis
+          Nyaman untuk Beristirahat, Bermain, & Berkumpul
         </p>
 
         <div className="features-grid">

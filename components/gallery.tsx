@@ -15,12 +15,12 @@ export default function Gallery() {
   // Data gambar-gambar yang ada di gallery
   const galleryImages = [
     {
-      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762841728/palmyra48-2_oqersg.avif",
+      src: "/gallery/gallery1.avif",
       alt: "Modern luxury home exterior",
       type: "image",
     },
     {
-      src: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762710429/Saba53-1_ph4ry5.avif",
+      src: "/gallery/gallery3.avif",
       alt: "Modern luxury home pool",
       type: "image",
     },
@@ -28,13 +28,13 @@ export default function Gallery() {
       src: "https://www.instagram.com/reel/DN2khw-UrEC/",
       alt: "Instagram Reel 1",
       type: "video",
-      thumbnail: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762710030/Saba47-2_oavwha.avif",
+      thumbnail: "/gallery/gallery1.avif",
     },
     {
       src: "https://www.instagram.com/reel/DNAe6_NTxcG/",
       alt: "Instagram Reel 2",
       type: "video",
-      thumbnail: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762709341/saba42-1_cnnxys.avif",
+      thumbnail: "/gallery/gallery1.avif",
     },
 
   ]

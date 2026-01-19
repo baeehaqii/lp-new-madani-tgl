@@ -9,9 +9,9 @@ export const metadata: Metadata = {
   title: "Sapphire Madani Tegal - Hunian Modern di Kota Tegal",
   description: "Temukan properti impian Anda di Sapphire Madani Tegal, hunian modern dengan lokasi strategis di Kota Tegal dengan fasilitas lengkap, dua pilihan cluster, tempat ibadah terintegrasi, taman dan ruang hijau. Developer Kredibel, Legalitas Terjamin, Proses Mudah. Harga terjangkau.",
   icons: {
-    icon: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
-    shortcut: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
-    apple: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761065068/Logo_pogacr.jpg",
+    icon: "/icon/icon.avif",
+    shortcut: "/icon/icon.avif",
+    apple: "/iocn/icon.avif",
   },
   keywords: [
     "Sapphire Madani Tegal",

@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image:"https://res.cloudinary.com/dqobwse9q/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1764453271/Enscape_2025-09-19-15-50-56_VIEW_1_irf1br.avif",
+      image:"/hero/hero1.avif",
       title: "Hidup Praktis di Tengah Kota Tegal",
       description:
         "Semua kebutuhan harian bisa dijangkau dalam hitungan menit.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-2_gythie.avif",
+      image: "/hero/hero2.avif",
       title: "Nyaman untuk Tinggal, Potensial untuk Investasi",
       description: "Lokasi strategis yang nilainya terus naik.",
     },
     {
-      image: "https://res.cloudinary.com/dqobwse9q/image/upload/w_700,h_400,c_fill,f_auto,q_auto:eco/v1764453182/Enscape_2025-09-18-20-37-35_VIEW_1_dmbofn.avif",
+      image: "/hero/hero3.avif",
       title: "Mobilitas Lebih Ringan",
       description: "Ke sekolah, kantor, atau pusat kota selalu dekat.",
     },
@@ -163,12 +163,12 @@ export default function Hero() {
                   <Image
                     src={
                       i === 2
-                        ? "https://res.cloudinary.com/dqobwse9q/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1754637078/WhatsApp_Image_2025-06-19_at_11.00.07_bvpgud.jpg"
+                        ? "/avatar/avatar1.avif"
                         : i === 3
-                          ? "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1749059575/image_10_mvh73f.png"
+                          ? "/avatar/avatar2.avif"
                           : i === 4
-                            ? "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1747762124/freepik__the-style-is-candid-image-photography-with-natural__77739_r5rogr.jpg"
-                            : "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_40,h_40,c_fill,f_auto,q_auto:eco/v1749058806/image_8_meklxg.png"
+                            ? "/avatar/avatar3.avif"
+                            : "/avatar/avatar4.avif"
                     }
                     alt={`Avatar ${i}`}
                     width={40}

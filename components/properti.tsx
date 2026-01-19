@@ -346,10 +346,10 @@ export default function Properties() {
       id: 1,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-2_gythie.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762709341/saba42-1_cnnxys.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016364/Screenshot_2025-11-01_at_23.44.49_kmhgyk.avif",
+      floorPlan: "/denah/saba/tipe4278.avif",
       name: "Tipe 42/78",
       price: "400.000.000",
       bedrooms: 2,
@@ -363,10 +363,10 @@ export default function Properties() {
       id: 2,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710030/Saba47-2_oavwha.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710030/Saba47-1_gla5zb.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016364/Screenshot_2025-11-01_at_23.44.59_nuy3zc.avif",
+      floorPlan: "/denah/saba/tipe4784.avif",
       name: "Tipe 47/84",
       price: "420.000.000",
       bedrooms: 2,
@@ -380,10 +380,10 @@ export default function Properties() {
       id: 3,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710259/Saba52-1_wyru9f.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710259/Saba52-2_aichup.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016365/Screenshot_2025-11-01_at_23.45.09_gd1qt6.avif",
+      floorPlan: "/denah/saba/tipe5284.avif",
       name: "Tipe 52/84",
       price: "450.000.000",
       bedrooms: 2,
@@ -397,10 +397,10 @@ export default function Properties() {
       id: 4,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710429/Saba53-1_ph4ry5.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710429/Saba53-2_napyeb.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016365/Screenshot_2025-11-01_at_23.45.18_ja7a38.avif",
+      floorPlan: "/denah/saba/tipe5384.avif",
       name: "Tipe 53/84",
       price: "460.000.000",
       bedrooms: 2,
@@ -414,10 +414,10 @@ export default function Properties() {
       id: 5,
       cluster: "saba",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710596/studio-saba2_gatnif.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762710595/studio-saba1_amm4ya.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016365/Screenshot_2025-11-01_at_23.45.32_dzxfve.avif",
+      floorPlan: "/denah/saba/tipestudio.avif",
       name: "Tipe Studio",
       price: "380.000.000",
       bedrooms: 1,
@@ -432,10 +432,10 @@ export default function Properties() {
       id: 6,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762841727/palmyra48-1_lv388g.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762841728/palmyra48-2_oqersg.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016393/Screenshot_2025-11-01_at_23.45.45_v28ss1.avif",
+      floorPlan: "/denah/palmyra/tipe4890.avif",
       name: "Tipe 48/90",
       price: "500.000.000",
       bedrooms: 2,
@@ -449,10 +449,10 @@ export default function Properties() {
       id: 7,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016393/Screenshot_2025-11-01_at_23.45.54_x6mfto.avif",
+      floorPlan: "/denah/palmyra/tipe55108.avif",
       name: "Tipe 55/108",
       price: "520.000.000",
       bedrooms: 2,
@@ -466,10 +466,10 @@ export default function Properties() {
       id: 8,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016394/Screenshot_2025-11-01_at_23.46.04_uiee21.avif",
+      floorPlan: "/denah/palmyra/tipe69108.avif",
       name: "Tipe 69/108",
       price: "560.000.000",
       bedrooms: 3,
@@ -483,10 +483,10 @@ export default function Properties() {
       id: 9,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016394/Screenshot_2025-11-01_at_23.46.11_vjksbm.avif",
+      floorPlan: "/denah/palmyra/tipe69135.avif",
       name: "Tipe 69/135 Hook",
       price: "600.000.000",
       bedrooms: 3,
@@ -500,10 +500,10 @@ export default function Properties() {
       id: 10,
       cluster: "palmyra",
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-1_keypr8.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762842023/Palmyra55-2_ijc1mn.avif",
+        "/gallery/wallpaper1.avif",
+        "/gallery/wallpaper2.avif",
       ],
-      floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762016394/Screenshot_2025-11-01_at_23.46.18_cdv5rx.avif",
+      floorPlan: "/denah/palmyra/tipe90108.avif",
       name: "Tipe 90/108",
       price: "650.000.000",
       bedrooms: 3,
@@ -517,7 +517,7 @@ export default function Properties() {
 
   const siteplan = {
     id: "siteplan-1",
-    image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762842939/siteplan-madani-tgl_uutuyn.png",
+    image: "/siteplan/siteplan.avif",
     name: "Siteplan Sapphire Madani Tegal",
     description:
       "Masterplan perumahan Sapphire Madani Tegal dengan dua cluster eksklusif menampilkan layout, jalan, ruang terbuka hijau, tempat ibadah terintegrasi, taman dan fasilitas dengan sistem keamanan terpadu untuk kenyamanan optimal.",
@@ -940,7 +940,7 @@ export default function Properties() {
           <div className="specifications-container">
             <div className="specifications-image">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762709341/saba42-1_cnnxys.avif"
+                src="/gallery/gallery1.avif"
                 alt="Spesifikasi Rumah"
                 width={600}
                 height={800}
